@@ -21,7 +21,7 @@
   import App from "./App.vue"
   
   // Make sure to include the default stylings
-  import "@hoppscotch/vue-toasted/style.css"
+  import "@hoppscotch/vue-toasted/dist/style.css"
   
   const app = createApp(App)
 
